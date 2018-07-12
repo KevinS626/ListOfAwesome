@@ -101,6 +101,8 @@
 - [20 Slack Communities for Designers and Developers](https://blog.lemonstand.com/20-slack-communities-for-designers-developers/) - Here’s our roundup of the 20 best Slack communities for designers and developers, which features Designer Hangout and 19 other design oriented groups. 
 
 ## Education
+- [CSS Guide](https://zendev.com/ultimate-guide-to-learning-css.html) - The ultimate guide to Learning CSS
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Learn Web Deverlopment at your own pace with practical guides and examples.
 - [Tuts+](https://tutsplus.com/) - Find videos and online courses to help you learn skills like code, photography, web design and much more. 
 - [Gymnasium](http://thegymnasium.com/) - Gymnasium offers free online courses designed to teach creative professionals in-demand skills, such as creating a Drupal 8 theme, and advanced rapid prototying with Axure. 
 - [Bento](https://bento.io/) - Bento is focused on development and offers a free full stack web development curriculum by top engineers.
